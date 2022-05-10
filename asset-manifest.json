@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/growup-demo/static/css/main.040834e3.chunk.css",
-    "main.js": "/growup-demo/static/js/main.67c5ff64.chunk.js",
-    "main.js.map": "/growup-demo/static/js/main.67c5ff64.chunk.js.map",
-    "runtime-main.js": "/growup-demo/static/js/runtime-main.5db21d13.js",
-    "runtime-main.js.map": "/growup-demo/static/js/runtime-main.5db21d13.js.map",
+    "main.js": "/growup-demo/static/js/main.6d54e419.chunk.js",
+    "main.js.map": "/growup-demo/static/js/main.6d54e419.chunk.js.map",
+    "runtime-main.js": "/growup-demo/static/js/runtime-main.c4573e17.js",
+    "runtime-main.js.map": "/growup-demo/static/js/runtime-main.c4573e17.js.map",
     "static/css/2.a207d323.chunk.css": "/growup-demo/static/css/2.a207d323.chunk.css",
-    "static/js/2.6b8963af.chunk.js": "/growup-demo/static/js/2.6b8963af.chunk.js",
-    "static/js/2.6b8963af.chunk.js.map": "/growup-demo/static/js/2.6b8963af.chunk.js.map",
-    "static/js/3.48d0b43a.chunk.js": "/growup-demo/static/js/3.48d0b43a.chunk.js",
-    "static/js/3.48d0b43a.chunk.js.map": "/growup-demo/static/js/3.48d0b43a.chunk.js.map",
+    "static/js/2.741f26ee.chunk.js": "/growup-demo/static/js/2.741f26ee.chunk.js",
+    "static/js/2.741f26ee.chunk.js.map": "/growup-demo/static/js/2.741f26ee.chunk.js.map",
+    "static/js/3.0ece9426.chunk.js": "/growup-demo/static/js/3.0ece9426.chunk.js",
+    "static/js/3.0ece9426.chunk.js.map": "/growup-demo/static/js/3.0ece9426.chunk.js.map",
     "index.html": "/growup-demo/index.html",
     "static/css/2.a207d323.chunk.css.map": "/growup-demo/static/css/2.a207d323.chunk.css.map",
     "static/css/main.040834e3.chunk.css.map": "/growup-demo/static/css/main.040834e3.chunk.css.map",
-    "static/js/2.6b8963af.chunk.js.LICENSE.txt": "/growup-demo/static/js/2.6b8963af.chunk.js.LICENSE.txt",
+    "static/js/2.741f26ee.chunk.js.LICENSE.txt": "/growup-demo/static/js/2.741f26ee.chunk.js.LICENSE.txt",
     "static/media/logo01.f0f3765f.svg": "/growup-demo/static/media/logo01.f0f3765f.svg",
     "static/media/logo02.ef3dc476.svg": "/growup-demo/static/media/logo02.ef3dc476.svg",
     "static/media/logo03.ed39a486.svg": "/growup-demo/static/media/logo03.ed39a486.svg",
@@ -23,10 +23,10 @@
     "static/media/slick-theme.css": "/growup-demo/static/media/slick.c94f7671.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.5db21d13.js",
+    "static/js/runtime-main.c4573e17.js",
     "static/css/2.a207d323.chunk.css",
-    "static/js/2.6b8963af.chunk.js",
+    "static/js/2.741f26ee.chunk.js",
     "static/css/main.040834e3.chunk.css",
-    "static/js/main.67c5ff64.chunk.js"
+    "static/js/main.6d54e419.chunk.js"
   ]
 }
