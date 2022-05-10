@@ -2,8 +2,11 @@ import React from "react";
 import { Helmet } from "react-helmet";
 // Screens
 import Landing from "./screens/Landing.jsx";
+import { hotjar } from 'react-hotjar';
 
 export default function App() {
+    hotjar.initialize(2961040, 6);
+
   return (
     <>
       <Helmet>
